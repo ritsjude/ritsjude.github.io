@@ -1,0 +1,58 @@
+{
+    "g7":[
+        {
+            "address":"zcnr_00000004@cn.ricoh.com",
+            "roomName":"G7-东区会议室 (10)"
+        },
+        {
+            "address":"zcnr_00000005@cn.ricoh.com",
+            "roomName":"G7-东区培训室 (20)"
+        },
+        {
+            "address":"zcnr_00000006@cn.ricoh.com",
+            "roomName":"G7-西区会议室1 (15)"
+        },
+        {
+            "address":"zcnr_00000007@cn.ricoh.com",
+            "roomName":"G7-西区会议室2 (15)"
+        },
+        {
+            "address":"zcnr_00000008@cn.ricoh.com",
+            "roomName":"G7-西区会议室3 (15)"
+        },
+        {
+            "address":"zcnr_00000009@cn.ricoh.com",
+            "roomName":"G7-西区培训室 (35)"
+        },
+        {
+            "address":"zcnr_00000001@cn.ricoh.com",
+            "roomName":"G7-TV1 (35)"
+        },
+        {
+            "address":"zcnr_00000002@cn.ricoh.com",
+            "roomName":"G7-TV2 (35)"
+        },
+        {
+            "address":"zcnr_00000003@cn.ricoh.com",
+            "roomName":"G7-TV3 (35)"
+        }
+    ],
+    "epqq":[
+        {
+          "address": "zcnr_00000023@cn.ricoh.com",
+          "roomName": "EPOQ-培训室 1F(100)"
+        },
+        {
+          "address": "zcnr_00000024@cn.ricoh.com",
+          "roomName": "EPOQ-培训室 6F(20)"
+        },
+        {
+          "address": "zcnr_00000021@cn.ricoh.com",
+          "roomName": "EPOQ-TV室 1F(20)"
+        },
+        {
+          "address": "zcnr_00000022@cn.ricoh.com",
+          "roomName": "EPOQ-TV室 6F(20)"
+        }
+      ]
+    }
